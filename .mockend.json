@@ -1,5 +1,5 @@
 {
-    "artists": [{
+    "Artist": [{
         "id": 1,
         "twitter": "@justinbieber",
         "name": "Justin Bieber"
