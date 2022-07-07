@@ -1,5 +1,5 @@
 {
-    "Artist": [{
+    "Artist": {
         "id": 1,
         "twitter": "@justinbieber",
         "name": "Justin Bieber"
@@ -94,5 +94,5 @@
         "twitter": "@LilTunechi",
         "name": "Lil Wayne"
     }
-  ]
+  
 }
