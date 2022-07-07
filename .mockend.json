@@ -1,7 +1,9 @@
 {
     "Artist": {
-        "id": 1,
-        "twitter": "@justinbieber",
-        "name": "Justin Bieber"
+        {
+            "id": 1,
+            "twitter": "@justinbieber",
+            "name": "Justin Bieber"
+        }
     }
 }
