@@ -1,7 +1,7 @@
 {
   "Artist": {
     "fieldName": {
-      "<type>": {} | [],
+      "id": 1,
       "hasMany": "Model",
       "belongsTo": "Model"
     }
